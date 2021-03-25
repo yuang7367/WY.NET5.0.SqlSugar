@@ -1,0 +1,12 @@
+D:\A项目\WY\WY.Model\bin\Debug\net5.0\WY.Model.deps.json
+D:\A项目\WY\WY.Model\bin\Debug\net5.0\WY.Model.dll
+D:\A项目\WY\WY.Model\bin\Debug\net5.0\ref\WY.Model.dll
+D:\A项目\WY\WY.Model\bin\Debug\net5.0\WY.Model.pdb
+D:\A项目\WY\WY.Model\obj\Debug\net5.0\WY.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\A项目\WY\WY.Model\obj\Debug\net5.0\WY.Model.AssemblyInfoInputs.cache
+D:\A项目\WY\WY.Model\obj\Debug\net5.0\WY.Model.AssemblyInfo.cs
+D:\A项目\WY\WY.Model\obj\Debug\net5.0\WY.Model.csproj.CoreCompileInputs.cache
+D:\A项目\WY\WY.Model\obj\Debug\net5.0\WY.Model.dll
+D:\A项目\WY\WY.Model\obj\Debug\net5.0\ref\WY.Model.dll
+D:\A项目\WY\WY.Model\obj\Debug\net5.0\WY.Model.pdb
+D:\A项目\WY\WY.Model\obj\Debug\net5.0\WY.Model.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WY.Data\WY.Data.csproj" />
+    <ProjectReference Include="..\WY.IService\WY.IService.csproj" />
+  </ItemGroup>
+
+</Project>
